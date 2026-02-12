@@ -1,6 +1,6 @@
 # Gacha Prediction 🚀
 
-You can access the live version of this app here: 👉 [Insert Your Streamlit Cloud Link Here]
+You can access the live version of this app here: 👉 [https://gacha-game-prediction.streamlit.app/]
 
 📖 Project Overview
 The Gacha Strategist App is an interactive web application built with Streamlit. It simplifies the complex "Pity" and "Guarantee" mechanics of Love and Deepspace, 
