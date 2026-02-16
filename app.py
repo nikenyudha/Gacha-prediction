@@ -57,7 +57,7 @@ def analyze_gacha(pity, guaranteed):
         if guaranteed:
             advice = "Your chances of getting a 5-star are starting to rise, and you're guaranteed to get the limited card. Keep going!"
         else:
-            advice = "Your chances are rising, but remember—you`re still on 50/50, which means there`s still a chance you`ll get a standard card."
+            advice = "Your chances are rising but remember you're still on 50/50. Which means there's still a chance you`ll get a standard card."
             
     # Fase Hemat
     else:
